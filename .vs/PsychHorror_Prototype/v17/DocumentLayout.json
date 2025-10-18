@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E043F7-36E4-3FA6-3662-798132D5272D}|Assembly-CSharp.csproj|c:\\users\\sdear\\onedrive\\desktop\\psychhorror_prototype\\assets\\script\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E043F7-36E4-3FA6-3662-798132D5272D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Test.cs",
+              "ToolTip": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Test.cs",
+              "RelativeToolTip": "Assets\\Script\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:55:13.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
