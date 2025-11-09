@@ -1,45 +1,98 @@
-@'
+# =======================================
 # Unity
+# =======================================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
 UserSettings/
-ProjectSettings/UnityConnectSettings.asset
+MemoryCaptures/
+Recordings/
 
-# IDE
-*.csproj
-*.sln
+# Cache and generated data
+/[Aa]ssets/AssetStoreTools*
+[Aa]ssets/StreamingAssets/aa/*
+[Aa]ssets/AddressableAssetsData/*/Windows/
+[Aa]ssets/AddressableAssetsData/*/OSX/
+[Aa]ssets/AddressableAssetsData/*/Android/
+
+# Auto-generated project files
+*.pidb
+*.pdb
+*.mdb
+*.tmp
+*.svd
 *.suo
 *.user
 *.userprefs
-*.pidb
-*.pdb
-*.tmp
+*.csproj
+*.unityproj
+*.sln
+*.booproj
+*.vcxproj
+*.vcxproj.filters
+*.db
+*.opendb
 
-# Asset Store tools
-Assets/AssetStoreTools*
-
-# Crash logs
+# Crash reports
 sysinfo.txt
 
-# Builds
+# =======================================
+# Visual Studio / Rider / IDEs
+# =======================================
+.vs/
+.idea/
+.vscode/
+*.DotSettings
+*.DotSettings.user
+*.resharper
+*.code-workspace
+
+# =======================================
+# Build artifacts
+# =======================================
 *.apk
 *.aab
-*.exe
-*.app
 *.xcodeproj
 *.xcworkspace
 *.ipa
+*.exe
+*.app
+*.msi
+*.unitypackage
+*.bundle
+*.dmg
 
-# OS junk
+# =======================================
+# Operating system junk
+# =======================================
 .DS_Store
 Thumbs.db
-'@ | Set-Content .gitignore
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.stackdump
 
-git add .gitignore
-git rebase --continue
-git push -u origin main
+# =======================================
+# Unity Cloud / Collaborate / Plastic SCM
+# =======================================
+.collabignore
+.plastic/
+UnityPackageManagerDiagnostics.xml
+
+# =======================================
+# Project-specific (optional)
+# =======================================
+# Ignore per-machine project settings (safe to regenerate)
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/QualitySettings.asset
+
+# Ignore local environment or experimental content
+*.local
+*.bak
+*.backup
+*.old
+*.orig
