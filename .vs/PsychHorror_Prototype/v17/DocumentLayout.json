@@ -3,8 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14E043F7-36E4-3FA6-3662-798132D5272D}|Assembly-CSharp.csproj|c:\\users\\sdear\\onedrive\\desktop\\psychhorror_prototype\\assets\\script\\camera\\player_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E043F7-36E4-3FA6-3662-798132D5272D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera\\player_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sdear\\OneDrive\\Desktop\\Monstrosity\\Assets\\Scripts\\CameraMovement\\MouseLook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14E043F7-36E4-3FA6-3662-798132D5272D}|Assembly-CSharp.csproj|c:\\users\\sdear\\onedrive\\desktop\\psychhorror_prototype\\assets\\script\\player\\player_final_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14E043F7-36E4-3FA6-3662-798132D5272D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\player_final_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sdear\\OneDrive\\Desktop\\Monstrosity\\Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,24 +28,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\Sdear\\OneDrive\\Desktop\\Monstrosity\\Assets\\Scripts\\CameraMovement\\MouseLook.cs",
+              "RelativeDocumentMoniker": "..\\Monstrosity\\Assets\\Scripts\\CameraMovement\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\Sdear\\OneDrive\\Desktop\\Monstrosity\\Assets\\Scripts\\CameraMovement\\MouseLook.cs",
+              "RelativeToolTip": "..\\Monstrosity\\Assets\\Scripts\\CameraMovement\\MouseLook.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:57:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player_Camera.cs",
+              "DocumentMoniker": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Camera\\Player_Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Camera\\Player_Camera.cs",
+              "ToolTip": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Camera\\Player_Camera.cs",
+              "RelativeToolTip": "Assets\\Script\\Camera\\Player_Camera.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:57:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Sdear\\OneDrive\\Desktop\\Monstrosity\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "..\\Monstrosity\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Sdear\\OneDrive\\Desktop\\Monstrosity\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "..\\Monstrosity\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:56:39.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Player_Final_Movement.cs",
               "DocumentMoniker": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Player\\Player_Final_Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\Player_Final_Movement.cs",
               "ToolTip": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Player\\Player_Final_Movement.cs",
               "RelativeToolTip": "Assets\\Script\\Player\\Player_Final_Movement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T01:28:45.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Users\\Sdear\\OneDrive\\Desktop\\PsychHorror_Prototype\\Assets\\Script\\Test.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Test.cs",
